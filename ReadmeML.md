@@ -12,8 +12,6 @@ In this project, I developed a robust machine learning pipeline that predicts me
 To develop a regression model that predicts individual medical insurance charges using demographic and lifestyle features, applying advanced machine learning techniques, with a focus on model interpretability and accuracy.
 
 ---
-
-## DATA DESCRIPTION
 ## 📁 Data Description
 
 The dataset contains **1338 records** and **7 features**:
@@ -29,10 +27,8 @@ The dataset contains **1338 records** and **7 features**:
 | `health_insurance_price` | Target variable: individual medical costs billed by insurance |
 
 ---
-
 ## 🎯 Target Variable
 **health_insurance_price** – A continuous variable representing the total medical cost charged to the insurance provider.
-
 
 ## **Features (Independent Variables):**
 
@@ -96,8 +92,6 @@ Evaluated each model using:
 ### 10. **Model Interpretation**
 - Analyzed **feature importance** from the XGBoost model to identify which variables most influenced predictions.
 - Visualized predicted vs. actual charges.
-
----
 
 ---
 # ## 📊 Data Visualizations
