@@ -1,7 +1,6 @@
 ![Health Insurance Cost Prediction](./banner.png)
 # Health Insurance Cost Prediction Using Machine Learning
 
-[](,/banner.png)
 
 ### 📌 Project Overview
 Health insurance cost prediction is a critical challenge in the healthcare and insurance industries. Accurately estimating a customer’s medical expenses based on lifestyle and demographic factors allows insurance providers to manage risk more effectively, set fair premium rates, and offer personalized plans.
@@ -100,25 +99,25 @@ Evaluated each model using:
 
 ### 📊 Data Visualizations
 
-### 🔢 Histogram – Numeric Columns
+###  Histogram – Numeric Columns
 ![Histogram](./histogram.png)
 
-### 🧍‍♂️ Countplot – Categorical Columns
+###  Countplot – Categorical Columns
 ![Countplot](./countplot.png)
 
-### 🧪 Boxplot – Outlier Detection
+###  Boxplot – Outlier Detection
 ![Boxplot](./boxplot.png)
 
-### 🔥 Correlation Heatmap
+###  Correlation Heatmap
 ![Heatmap](./correlation.png)
 
-### ⚖️ Scaling Techniques Comparison
+###  Scaling Techniques Comparison
 ![Scaling](./scaling_comparison.png)
 
-### 🚫 Outlier Capping
+###  Outlier Capping
 ![Capping](./outliers_capping.png)
 
-### 🎯 Scatter Plot – Actual vs Predicted Charges
+### Scatter Plot – Actual vs Predicted Charges
 ![Scatter Plot](./scatter_plot.png)
 
 ---
