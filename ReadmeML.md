@@ -8,10 +8,13 @@ Health insurance cost prediction is a critical challenge in the healthcare and i
 
 In this project, I developed a robust machine learning pipeline that predicts medical insurance charges using a structured dataset containing variables such as age, sex, BMI, smoking status, and region. The process involved exploratory data analysis (EDA), feature engineering, preprocessing, and regression modeling using multiple algorithms.
 
+---
+
 ### 🎯 Objective
 
 To develop a regression model that predicts individual medical insurance charges using demographic and lifestyle features, applying advanced machine learning techniques, with a focus on model interpretability and accuracy.
 
+---
 ### 📁 Data Description
 
 The dataset contains **1338 records** and **7 features**:
@@ -39,6 +42,7 @@ The dataset contains **1338 records** and **7 features**:
 
 * Location: region (to account for regional cost variability)
 
+---
 ### 👣 Project Workflow
 
 Here is a step-by-step breakdown of all tasks performed:
@@ -91,7 +95,9 @@ Evaluated each model using:
 ### 10. **Model Interpretation**
 - Analyzed **feature importance** from the XGBoost model to identify which variables most influenced predictions.
 - Visualized predicted vs. actual charges.
-- 
+
+---
+
 ### 📊 Data Visualizations
 
 ### 🔢 Histogram – Numeric Columns
@@ -115,7 +121,7 @@ Evaluated each model using:
 ### 🎯 Scatter Plot – Actual vs Predicted Charges
 ![Scatter Plot](./scatter_plot.png)
 
-
+---
 ### Model Performance Comparison
 ![Comparison of model ](./model_performance_table.png)
 This table compares the performance of four machine learning models — Linear Regression, Decision Tree, Random Forest, and XGBOOST — using key evaluation metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score. Lower error values and higher R² scores indicate better performance. Among these, XGBOOST delivers the best overall results.
@@ -128,11 +134,12 @@ This table compares the performance of four machine learning models — Linear R
 - Gender and region had minimal predictive power.
 - **XGBoost** outperformed other models with the highest accuracy and generalization capability.
 
-
+---
 
 ## 🧾 Final Report & Conclusion
 This project showcases the complete lifecycle of a real-world ML regression task. XGBoost outperformed all models, and insights from feature analysis can aid insurance firms in designing data-driven pricing strategies.
 
+---
 
 ## 🧰 Skills Demonstrated
 
@@ -143,6 +150,7 @@ This project showcases the complete lifecycle of a real-world ML regression task
 - Hyperparameter Tuning  
 - Reporting & Interpretation 
 
+---
 
 ## 🛠️ Tools & Technologies Used
 
