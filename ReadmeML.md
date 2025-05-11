@@ -1,5 +1,5 @@
 # Health Insurance Cost Prediction Using Machine Learning
-./ecommerce-banner.png
+
 ![Health Insurance Cost Prediction](,/banner.png)
 
 ### 📌 Project Overview
@@ -102,27 +102,27 @@ Evaluated each model using:
 ![Histogram](./histogram.png)
 
 ### 🧍‍♂️ Countplot – Categorical Columns
-![Countplot](images/countplot.png)
+![Countplot](./countplot.png)
 
 ### 🧪 Boxplot – Outlier Detection
-![Boxplot](images/boxplot.png)
+![Boxplot](./boxplot.png)
 
 ### 🔥 Correlation Heatmap
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](./correlation_heatmap.png)
 
 ### ⚖️ Scaling Techniques Comparison
-![Scaling](images/scaling_comparison.png)
+![Scaling](./scaling_comparison.png)
 
 ### 🚫 Outlier Capping
-![Capping](images/outlier_capping.png)
+![Capping](./outlier_capping.png)
 
 ### 🎯 Scatter Plot – Actual vs Predicted Charges
-![Scatter Plot](images/scatterplot.png)
+![Scatter Plot](./scatterplot.png)
 
 ---
 
 ### Model Performance Comparison
-![Comparison of model ]("images/model_performance_table.png")
+![Comparison of model ](./model_performance_table.png)
 This table compares the performance of four machine learning models — Linear Regression, Decision Tree, Random Forest, and XGBOOST — using key evaluation metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score. Lower error values and higher R² scores indicate better performance. Among these, XGBOOST delivers the best overall results.
 
 ---
