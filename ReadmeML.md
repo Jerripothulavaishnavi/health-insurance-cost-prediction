@@ -108,7 +108,7 @@ Evaluated each model using:
 ![Boxplot](./boxplot.png)
 
 ### 🔥 Correlation Heatmap
-![Heatmap](./correlation_heatmap.png)
+![Heatmap](./correlation.png)
 
 ### ⚖️ Scaling Techniques Comparison
 ![Scaling](./scaling_comparison.png)
