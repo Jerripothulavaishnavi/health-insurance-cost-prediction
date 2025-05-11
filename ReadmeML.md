@@ -123,6 +123,8 @@ Evaluated each model using:
 ---
 ### Model Performance Comparison
 ![Comparison of model ](./model_performance_table.png)
+
+
 This table compares the performance of four machine learning models — Linear Regression, Decision Tree, Random Forest, and XGBOOST — using key evaluation metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score. Lower error values and higher R² scores indicate better performance. Among these, XGBOOST delivers the best overall results.
 
 ---
