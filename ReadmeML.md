@@ -26,7 +26,6 @@ The dataset contains **1338 records** and **7 features**:
 | `location`           | Residential area (northeast, southeast, southwest, northwest) |
 | `health_insurance_price` | Target variable: individual medical costs billed by insurance |
 
----
 ### 🎯 Target Variable
 **health_insurance_price** – A continuous variable representing the total medical cost charged to the insurance provider.
 
@@ -92,8 +91,7 @@ Evaluated each model using:
 ### 10. **Model Interpretation**
 - Analyzed **feature importance** from the XGBoost model to identify which variables most influenced predictions.
 - Visualized predicted vs. actual charges.
-
----
+- 
 ### 📊 Data Visualizations
 
 ### 🔢 Histogram – Numeric Columns
@@ -117,7 +115,6 @@ Evaluated each model using:
 ### 🎯 Scatter Plot – Actual vs Predicted Charges
 ![Scatter Plot](./scatter_plot.png)
 
----
 
 ### Model Performance Comparison
 ![Comparison of model ](./model_performance_table.png)
@@ -131,12 +128,12 @@ This table compares the performance of four machine learning models — Linear R
 - Gender and region had minimal predictive power.
 - **XGBoost** outperformed other models with the highest accuracy and generalization capability.
 
----
+
 
 ## 🧾 Final Report & Conclusion
 This project showcases the complete lifecycle of a real-world ML regression task. XGBoost outperformed all models, and insights from feature analysis can aid insurance firms in designing data-driven pricing strategies.
 
----
+
 ## 🧰 Skills Demonstrated
 
 - Data Cleaning & EDA  
@@ -146,7 +143,6 @@ This project showcases the complete lifecycle of a real-world ML regression task
 - Hyperparameter Tuning  
 - Reporting & Interpretation 
 
----
 
 ## 🛠️ Tools & Technologies Used
 
