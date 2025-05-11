@@ -1,3 +1,4 @@
+![Health Insurance Cost Prediction](./banner.png)
 # Health Insurance Cost Prediction Using Machine Learning
 
 [](,/banner.png)
