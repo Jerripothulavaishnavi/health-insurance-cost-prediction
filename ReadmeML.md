@@ -94,7 +94,7 @@ Evaluated each model using:
 - Visualized predicted vs. actual charges.
 
 ---
-# ## 📊 Data Visualizations
+### 📊 Data Visualizations
 
 ### 🔢 Histogram – Numeric Columns
 ![Histogram](images/histogram.png)
@@ -137,9 +137,6 @@ This table compares the performance of four machine learning models — Linear R
 This project showcases the complete lifecycle of a real-world ML regression task. XGBoost outperformed all models, and insights from feature analysis can aid insurance firms in designing data-driven pricing strategies.
 
 ---
-
-
-
 ## 🧰 Skills Demonstrated
 
 - Data Cleaning & EDA  
