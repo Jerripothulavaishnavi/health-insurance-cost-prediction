@@ -114,10 +114,10 @@ Evaluated each model using:
 ![Scaling](./scaling_comparison.png)
 
 ### 🚫 Outlier Capping
-![Capping](./outlier_capping.png)
+![Capping](./outliers_capping.png)
 
 ### 🎯 Scatter Plot – Actual vs Predicted Charges
-![Scatter Plot](./scatterplot.png)
+![Scatter Plot](./scatter_plot.png)
 
 ---
 
