@@ -1,6 +1,6 @@
 # Health Insurance Cost Prediction Using Machine Learning
 
-![Health Insurance Cost Prediction](,/banner.png)
+[](,/banner.png)
 
 ### 📌 Project Overview
 Health insurance cost prediction is a critical challenge in the healthcare and insurance industries. Accurately estimating a customer’s medical expenses based on lifestyle and demographic factors allows insurance providers to manage risk more effectively, set fair premium rates, and offer personalized plans.
@@ -168,5 +168,5 @@ I hold a degree in **Electronics and Communication Engineering (ECE)** and have 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com//health-insurance-prediction.git
-   cd health-insurance-prediction
+   git clone https://github.com/Jerripothulavaishnavi/health-insurance-cost-prediction.git
+   cd health-insurance-cost-prediction
