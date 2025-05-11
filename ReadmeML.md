@@ -8,13 +8,10 @@ Health insurance cost prediction is a critical challenge in the healthcare and i
 
 In this project, I developed a robust machine learning pipeline that predicts medical insurance charges using a structured dataset containing variables such as age, sex, BMI, smoking status, and region. The process involved exploratory data analysis (EDA), feature engineering, preprocessing, and regression modeling using multiple algorithms.
 
----
-
 ### 🎯 Objective
 
 To develop a regression model that predicts individual medical insurance charges using demographic and lifestyle features, applying advanced machine learning techniques, with a focus on model interpretability and accuracy.
 
----
 ### 📁 Data Description
 
 The dataset contains **1338 records** and **7 features**:
