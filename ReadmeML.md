@@ -1,18 +1,20 @@
 # Health Insurance Cost Prediction Using Machine Learning
 
-## 📌 Project Overview
+![Health Insurance Cost Prediction](images/banner.png)
+
+### 📌 Project Overview
 Health insurance cost prediction is a critical challenge in the healthcare and insurance industries. Accurately estimating a customer’s medical expenses based on lifestyle and demographic factors allows insurance providers to manage risk more effectively, set fair premium rates, and offer personalized plans.
 
 In this project, I developed a robust machine learning pipeline that predicts medical insurance charges using a structured dataset containing variables such as age, sex, BMI, smoking status, and region. The process involved exploratory data analysis (EDA), feature engineering, preprocessing, and regression modeling using multiple algorithms.
 
 ---
 
-## 🎯 Objective
+### 🎯 Objective
 
 To develop a regression model that predicts individual medical insurance charges using demographic and lifestyle features, applying advanced machine learning techniques, with a focus on model interpretability and accuracy.
 
 ---
-## 📁 Data Description
+### 📁 Data Description
 
 The dataset contains **1338 records** and **7 features**:
 
@@ -27,10 +29,10 @@ The dataset contains **1338 records** and **7 features**:
 | `health_insurance_price` | Target variable: individual medical costs billed by insurance |
 
 ---
-## 🎯 Target Variable
+### 🎯 Target Variable
 **health_insurance_price** – A continuous variable representing the total medical cost charged to the insurance provider.
 
-## **Features (Independent Variables):**
+### **Features (Independent Variables):**
 
 * Demographics: age, gender
 
@@ -40,7 +42,7 @@ The dataset contains **1338 records** and **7 features**:
 
 * Location: region (to account for regional cost variability)
 
-## 👣 Project Workflow
+###👣 Project Workflow
 
 Here is a step-by-step breakdown of all tasks performed:
 
