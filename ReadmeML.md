@@ -13,7 +13,6 @@ To develop a regression model that predicts individual medical insurance charges
 
 ---
 
----
 ## DATA DESCRIPTION
 ## 📁 Data Description
 
@@ -31,7 +30,6 @@ The dataset contains **1338 records** and **7 features**:
 
 ---
 
----
 ## 🎯 Target Variable
 **health_insurance_price** – A continuous variable representing the total medical cost charged to the insurance provider.
 
